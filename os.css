@@ -1,0 +1,36 @@
+.twitter-tweet {
+display:block;
+  width:150px;
+  margin:0 auto;
+}
+
+body {
+  background-color: black;
+}
+
+body h2 {
+  color: white;
+  text-align: center;
+}
+
+
+body h3 {
+  color: white;
+  text-align: center;
+}
+
+.button{
+  background:black;
+  padding:1em 1em;
+  border:red 2px solid;
+  text-decoration:none;
+  color:red;
+  font-size:1.5em;
+  font-family:sans-serif;
+}
+
+.block{
+  display:block;
+  width:150px;
+  margin:0 auto;
+}
